@@ -1,5 +1,7 @@
 # PollenCounter Version 1.0
+------------------------------------------------------------------
 Manual pollen counter using key-board: A Python-based application
+------------------------------------------------------------------
 
 This application runs in Python.
 
